@@ -1,0 +1,42 @@
+-------------------------------------
+¿Qué es un comando? Un comando es un 
+programa de software que, cuando se 
+ejecuta en la CLI y que realiza una 
+acción en el ordenador.
+
+Al momento de ejecutar un comando, el
+SO ejecuta un proceso para leer datos 
+de entrada, manipular datos y
+producir resultados.
+
+En otras palabras un comanod ejecuta 
+un comando ejecuta un proceso en el 
+SO, que luego hace que el ordenador
+realice una tarea determinada.
+
+La mayoria de los comandos siguen un
+patron de sintaxis simple:
+
+-------------------------------------
+comando [opciones…] [argumentos…]
+
+Opciones: alteran el comportamiento 
+del comando.
+
+Argumentos: son elementos o valores 
+sobre los que debe actuar el comando.
+
+Ls -la home/josuered4
+
+opciones:
+-l =>usar un formato de listado largo
+a => "all elements"
+se pueden usar varias opciones.
+
+argumentos:
+home/josuered4 => direccion o dir 
+sobre el que se trajara.
+
+
+
+
