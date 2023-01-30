@@ -1,1 +1,26 @@
 -------------------------------------
+pwd [opts]->(print working directory)
+
+imprime la ubicación actual del user
+que lo ejecuta.
+
+-------------------------------------
+cd [opciones] [ruta] -> (change 
+directory)
+
+cambio de directorio a una ruta:
+ cd home -> entramos a home 
+ cd .. -> retrocedemos un directorio
+ cd -> regresamos al home del user 
+ 
+ usualmente solo se usa con la ruta y
+ sin opciones, solo parametros
+
+-------------------------------------
+Rutas Absolutas y Rutas Relativas.
+
+Las rutas Absolutas comienzan en la 
+raiz del sistema de archivos.
+
+Las rutas Relativas comienzan en su 
+ubicación actual.
