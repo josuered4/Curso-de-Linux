@@ -21,6 +21,23 @@ Rutas Absolutas y Rutas Relativas.
 
 Las rutas Absolutas comienzan en la 
 raiz del sistema de archivos.
+"Permite especificar la ubicación 
+exacta de un directorio, esta 
+comienzan siempre desde el root / ".
+
 
 Las rutas Relativas comienzan en su 
 ubicación actual.
+"Permite ubicar a un archivo en 
+relacion a la ubicación del directory
+actual en el que se esta el userio"
+
+-------------------------------------
+Notas 
+
+PWD nos muestra la ruta absoluta de 
+la ubicación actual.
+
+cd .. -> actual sobre el dir padre
+cd . -> actua sobre el directori actu
+cd ~ -> actua sobre el home del user
