@@ -38,6 +38,22 @@ Notas
 PWD nos muestra la ruta absoluta de 
 la ubicación actual.
 
-cd .. -> actual sobre el dir padre
+cd .. -> actua sobre el dir padre
 cd . -> actua sobre el directori actu
 cd ~ -> actua sobre el home del user
+
+-------------------------------------
+Listado de Archivos -> ls 
+Retorna una lista con los elementos, 
+sin elementos actual actual sobre el
+directorio actual.
+
+ls -> list source 
+ls -l -> lista larga "permisos, 
+        usr/grp etc"
+ls -lt -> t: time ordena segun su 
+        fecha de creación.
+ls -l -S -> S: "size" o tamaño del 
+        archivo.
+ls -l -r -> "revese" invierte el 
+        orden que se allá aplicado

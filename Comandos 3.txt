@@ -1,0 +1,24 @@
+-------------------------------------
+Acceso Administrativo 
+Hay comandos u archivos con info 
+confidencial o uso especial para SO
+y para acceder a estos se requiere d 
+estar en modo de usuario privilegiado 
+o admin "root"
+
+su [Opciones] UserName 
+sudo su -> accedemos al root, siempre
+    y cuando tengamos el acceso a eso.
+
+con "su" podemos acceder aun usuario 
+y actuar como un usuario diferente 
+para hacer acciones solo desde shell
+
+-------------------------------------
+Comando "sudo";
+permite a un usuario ejecutar comando
+como otro usuario sin tener que usar 
+otra shell;
+usar el comando sudo, generalmente 
+hara que ejecutemos comandos como si 
+fuesemos "root";
